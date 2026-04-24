@@ -10,6 +10,9 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.nimgenapempatbelas.NIMGenapEmpatBelas</exec.mainClass>
+        <sonar.projectKey>RiyanaIsti_BankAccountTest-SonarQube</sonar.projectKey>
+        <sonar.organization>riyanaisti</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
     <dependencies>
         <dependency>
