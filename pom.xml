@@ -10,6 +10,12 @@
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>com.mycompany.nimgenapempatbelas.NIMGenapEmpatBelas</exec.mainClass>
+<<<<<<< HEAD
+=======
+        <sonar.projectKey>RiyanaIsti_BankAccountTest-SonarQube</sonar.projectKey>
+        <sonar.organization>riyanaisti</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+>>>>>>> 9a4183e0cbe9c79fade7301ed0b4e251f1cf4949
     </properties>
     <dependencies>
         <dependency>
@@ -19,4 +25,16 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+<<<<<<< HEAD
+=======
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>3.9.1.2184</version>
+            </plugin>
+        </plugins>
+    </build>
+>>>>>>> 9a4183e0cbe9c79fade7301ed0b4e251f1cf4949
 </project>

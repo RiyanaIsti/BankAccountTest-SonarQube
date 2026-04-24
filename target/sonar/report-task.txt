@@ -1,0 +1,7 @@
+organization=riyanaisti
+projectKey=RiyanaIsti_BankAccountTest-SonarQube
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.86098
+dashboardUrl=https://sonarcloud.io/dashboard?id=RiyanaIsti_BankAccountTest-SonarQube
+ceTaskId=AZ3AVm-ZEoMsitQ6m4BN
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZ3AVm-ZEoMsitQ6m4BN
